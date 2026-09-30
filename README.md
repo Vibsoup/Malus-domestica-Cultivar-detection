@@ -1,6 +1,8 @@
 # Malus-domestica-Cultivar-detection
 Development of a computer vision model for automated identification of apple cultivars from photographic images.
 
+ONGOING PROJECT!!!!
+
 # Apple Variety Classification
 
 A deep learning-based image classification system for automated identification of apple varieties from digital images.
