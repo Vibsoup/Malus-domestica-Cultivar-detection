@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Apple classifier datasets
+apple_dataset/
+apple_dataset_split/
+grouped_dataset/
+
+# Trained models
+model/
+
+# Test images
+test.jpg
